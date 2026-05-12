@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Environment variables (keep private)
+.env
+.env.local
+
+# Hardhat config (contains private key)
+hardhat.config.js
+
+# Hardhat artifacts
+contract/artifacts/
+contract/cache/
+contract/ignition/deployments/
+
+# React build
+frontend/build/
+
+# Logs
+*.log
+npm-debug.log*
