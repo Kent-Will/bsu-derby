@@ -1,7 +1,7 @@
 // src/config.js
 export const CONFIG = {
   CONTRACT_ADDRESS: "0x9b11008F5054c95C247344d587610Bcba448E247",
-  BACKEND_URL: "http://localhost:3001",
+  BACKEND_URL: "http://52.15.174.224:3001",
   CHAIN_ID: 11155111,
   ABI: [
     "function deposit() payable",
