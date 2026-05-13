@@ -1,7 +1,7 @@
 // src/config.js
 export const CONFIG = {
   CONTRACT_ADDRESS: "0x9b11008F5054c95C247344d587610Bcba448E247",
-  BACKEND_URL: "https://contamination-meanwhile-resumes-physician.trycloudflare.com",
+  BACKEND_URL: "https://rip-mini-twisted-discussion.trycloudflare.com",
   CHAIN_ID: 11155111,
   ABI: [
     "function deposit() payable",
