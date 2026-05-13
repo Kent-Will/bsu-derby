@@ -1,7 +1,7 @@
 // src/config.js
 export const CONFIG = {
   CONTRACT_ADDRESS: "0x9b11008F5054c95C247344d587610Bcba448E247",
-  BACKEND_URL: "https://epiphany-vest-express.ngrok-free.dev",
+  BACKEND_URL: "https://contamination-meanwhile-resumes-physician.trycloudflare.com",
   CHAIN_ID: 11155111,
   ABI: [
     "function deposit() payable",
